@@ -62,7 +62,7 @@ img:hover {
 }
 
 #wrap header .innerHeader {
-    min-width: 1460px;
+    /* min-width: 1460px; */
     width: 95%;
     height: 110px;
     display: flex;
@@ -231,6 +231,7 @@ img:hover {
 
 main {
     position: relative;
+    overflow: hidden;
 }
 
 /* 클릭시 최상단으로 이동 */
